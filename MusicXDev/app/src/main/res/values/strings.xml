@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicXDev</string>
+    <string name="buttonc1">PLAY</string>
+    <string name="buttonc2">PAUSE</string>
+    <string name="buttonc3">STOP</string>
+    <string name="heading">Music X</string>
+    <string name="img">MusicImg</string>
+    <string name="volume">Adjust Volume:</string>
+</resources>
